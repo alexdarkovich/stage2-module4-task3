@@ -14,5 +14,4 @@ public class ManufactureFilteringStrategy implements FilteringStrategy {
         return product.getManufacture().equalsIgnoreCase(manufacture);
     }
 
-    // Write your code here!
 }

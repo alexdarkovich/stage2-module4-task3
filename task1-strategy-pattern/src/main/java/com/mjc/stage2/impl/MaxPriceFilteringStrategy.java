@@ -14,5 +14,4 @@ public class MaxPriceFilteringStrategy implements FilteringStrategy {
         return product.getPrice() <= maxPrice;
     }
 
-    // Write your code here!
 }

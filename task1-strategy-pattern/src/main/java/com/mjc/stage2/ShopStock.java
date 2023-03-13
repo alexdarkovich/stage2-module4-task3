@@ -23,6 +23,6 @@ public class ShopStock {
             }
         }
         return list;
-
+//a
     }
 }
