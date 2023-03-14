@@ -7,6 +7,7 @@ public class ChainParserBuilder {
     private List<AbstractTextParser> parsers = new ArrayList<>();
 
     public ChainParserBuilder() {
+        //constructor
     }
 
     public ChainParserBuilder setParser(AbstractTextParser abstractTextParser) {
